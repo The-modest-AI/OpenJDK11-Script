@@ -4,7 +4,7 @@ PATH_TO_JDK="https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/downloa
 
 FILE_NAME="OpenJDK11U-jdk_x64_linux_hotspot_11.0.11_9.tar.gz";
 
-echo "Welcome to the AdoptOpenJDK installer for JDK 11"
+echo "Welcome $USER, to the AdoptOpenJDK installer for JDK 11"
 
 function direcrtoryInput () {
  while [ true ]; do
