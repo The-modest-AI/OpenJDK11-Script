@@ -1,0 +1,1 @@
+To install OpenJDK 11 Binary and set PATH variable in Debian based distros.
